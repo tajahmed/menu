@@ -27,7 +27,7 @@ const menu = [
   },
   {
     id: 4,
-          title: 'Mango Shakes',
+          title: 'Mango Shake',
           category: 'shakes',
           price: 49,
     img: './images/item-9.jpeg',
